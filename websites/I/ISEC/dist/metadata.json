@@ -1,0 +1,22 @@
+{
+    "$schema": "https://schemas.premid.app/metadata/1.0",
+    "author": {
+      "name": "NULL",
+      "id": "NULL"
+    },
+    "service": "ISEC",
+    "description": {
+      "en": "Adds support to InforEstudante, myISEC and Moodle.",
+      "pt": "Adiciona suporte para o InforEstudante, o myISEC e o Moodle."
+    },
+    "url": ["inforestudante.ipc.pt", "moodle.isec.pt", "my.isec.pt"],
+    "version": "0.0.1",
+    "logo": "https://moodle.isec.pt/moodle/pluginfile.php/1/theme_adaptable/logo/1581343866/logo.png",
+    "thumbnail": "https://moodle.isec.pt/moodle/pluginfile.php/1/theme_adaptable/logo/1581343866/logo.png",
+    "color": "#9d1a17",
+    "tags": ["isec", "instituto", "superior", "engenharia", "coimbra"],
+    "category": "other",
+    "regExp": "REGEXP",
+    "iFrameRegExp": "REGEXP",
+    "iframe": false
+  }
